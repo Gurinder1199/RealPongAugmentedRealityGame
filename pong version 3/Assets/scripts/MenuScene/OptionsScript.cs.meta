@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53b1f7c6dc4a26a4b848b6814aa2d4ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musVol: {fileID: 24100000, guid: 34f29acc17e5a034d8ee925ffb9bb8b7, type: 2}
+  - musSlide: {instanceID: 0}
+  - dropit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
